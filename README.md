@@ -19,7 +19,7 @@ Geek in love with coding, sound, and visuals, preferably at the same time.
 
 - [github.com/stanleyedward](https://github.com/stanleyedward)
 - [medium.com/@stanleyedward](https://medium.com/@stanleyedward)
-- [/in/pawelgolonko](https://linkedin.com/in/stanley-edward)
+- [/in/stanley-edward](https://linkedin.com/in/stanley-edward)
 
 ***
 
