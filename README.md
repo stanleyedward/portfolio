@@ -1,8 +1,8 @@
 ### Hello! My name is
 
-# Pawel Golonko
+# Stanley Edward
 
-and I'm a web developer.
+and I'm a Deep Learning ethusiast.
 
 ***
 
@@ -13,23 +13,23 @@ Web developer with **over 19 years' experience** in creating a wide variety of w
 Geek in love with coding, sound, and visuals, preferably at the same time.
 
 - [greenek.com](https://greenek.com)
-- [pgolonko@gmail.com](mailto:pgolonko@gmail.com)
+- [stanleyedward9715@gmail.com](mailto:stanleyedward9715@gmail.com)
 
 ### Follow
 
-- [github.com/Greenek](https://github.com/Greenek)
-- [dribble.com/Greenek](https://dribbble.com/Greenek)
-- [/in/pawelgolonko](https://linkedin.com/in/pawelgolonko)
+- [github.com/stanleyedward](https://github.com/stanleyedward)
+- [medium.com/@stanleyedward](https://medium.com/@stanleyedward)
+- [/in/pawelgolonko](https://linkedin.com/in/stanley-edward)
 
 ***
 
 ## Experience
 
-- ##### November 2023 – present
+- ##### October 2023 – present
 
-  ### Aize
+  ### Next Tech Lab
 
-  #### Principal Software Engineer
+  #### Associate
 
   Leading the development of the **Design System and Data Visualization** libraries used in Aize applications.
 
@@ -40,11 +40,11 @@ Geek in love with coding, sound, and visuals, preferably at the same time.
 
   > _Angular_ _Typescript_ _D3_ _NX_ _Storybook_ _GitLab_ _Figma_
 
-- ##### May 2019 – October 2023
+- ##### October 2023 - present
 
-  ### Circle K Business Centre / Madiff
+  ### Data Science Community SRM
 
-  #### Senior Front-end Developer
+  #### Member
 
   Built a scalable system enabling the execution of Angular pages with content served by a decoupled Drupal using the JSON:API protocol.
 
