@@ -151,7 +151,7 @@ Geek in love with coding, sound, and visuals, preferably at the same time.
 
   > _PHP_ _Kohana_ _Wordpress_ _MySQL_ _HTML_ _CSS_ _LESS_ _Bootstrap_ _JavaScript_ _jQuery_ _PayPal_ _PayU_ _WorldPay_ _LastFm_ _PrestaShop_
 
-- ##### July 17th, 1988
+- ##### 24th February, 2004
 
   ### Born
 
@@ -185,9 +185,10 @@ Geek in love with coding, sound, and visuals, preferably at the same time.
 
 ### Languages
 
-- Polish (native),
 - English (fluent),
-- Norwegian (basic).
+- Hindi (native),
+- Tamil (native),
+- Marathi (basic).
 
 ***
 
