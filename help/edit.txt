@@ -1,0 +1,4 @@
+Change contents in the content/*.md files
+
+Change the title in the app/App.svelte
+Change the image in the app/App.svelte

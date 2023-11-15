@@ -26,6 +26,7 @@
     href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;400;600&display=swap"
     rel="stylesheet"
   />
+  <title>stanley edward - Portfolio</title>  <!--change title-->
 </svelte:head>
 
 <Intro />
@@ -37,7 +38,7 @@
     </Section>
   {/each}
 
-  <img src="images/me.jpeg" id="me" alt="Heisann" />
+  <img src="images/me.jpeg" id="me" alt="Heisann" /> <!--change the image -->
 </main>
 
 <footer id="footer">
