@@ -1,13 +1,13 @@
 ## After Hours
 
-### Audiovisual art
+### music
 
-Translating sound into image with audio-reactive code and live video mixing.
+little bit of punk a little bit metal
 
-### Music production
+### calisthenics
 
-Exploring magical world of creating sounds inspired by drum and bass and rap music.
+training while my model(s) train
 
-### Nature
+### /.!@#>41./?>!@#12
 
-Exploring the beauty of Norway.
+can't stop drawing cars dinos and sharts

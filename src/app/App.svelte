@@ -38,7 +38,7 @@
     </Section>
   {/each}
 
-  <img src="images/me.jpeg" id="me" alt="Heisann" /> <!--change the image -->
+  <img src="images/idek.jpg" id="me" alt="Heisann" /> <!--change the image -->
 </main>
 
 <footer id="footer">
