@@ -1,10 +1,10 @@
 ## Experience
 
-- ##### November 2022 – present
+- ##### October 2023 – present
 
-  ### Aize
+  ### Next Tech Lab
 
-  #### Principal Software Engineer
+  #### Associate
 
   Leading the development of the **Design System and Data Visualization** libraries used in Aize applications.
 
@@ -15,11 +15,11 @@
 
   > _Angular_ _Typescript_ _D3_ _NX_ _Storybook_ _GitLab_ _Figma_
 
-- ##### May 2019 – October 2022
+- ##### October 2023 – present
 
-  ### Circle K Business Centre / Madiff
+  ### Data Science Community SRM
 
-  #### Senior Front-end Developer
+  #### Member
 
   Built a scalable system enabling the execution of Angular pages with content served by a decoupled Drupal using the JSON:API protocol.
 
@@ -32,101 +32,7 @@
 
   > _Angular_ _Typescript_ _NX_ _NestJS_ _SSR_ _JSONAPI_
 
-- ##### July 2018 – May 2019
-
-  ### ITDS Business Consultants
-
-  #### Front-end Developer
-
-  Developing applications and tools for banking company clients (i.e. **Credit Suisse**), such as:
-
-  - **Credit risk** dashboards,
-  - A **gamified** in-house platform for employee engagement.
-
-  > _AngularJS_ _Angular_ _TypeScript_ _SASS_ _ag-Grid_
-
-- ##### March 2015 – April 2018
-
-  ### LogZilla Corporation
-
-  #### Lead UI Architect
-
-  **LogZilla** is the leader in delivering real-time network insight with an intelligent network operations platform.
-
-  As a Lead UI Architect I was responsible for the entire process of creating the user interface for `LogZilla 5.x`, during which I:
-
-  - Built an application capable of **processing huge volumes of data** (up to **1M events per seconds**) and rendering the results in real time.
-  - Researched and **implemented new functionalities**.
-  - **Refined existing UX/UI** projects and prototyped new components.
-  - **Led an international team** of developers.
-  - **Collaborated with the backend developers** team to improve communication performance between server and client.
-  - Created and maintained an **automated build system**.
-
-  > _AngularJS_ _JavaScript_ _LESS_ _Bootstrap_ _ECharts_ _WebSocket_ _NodeJS_ _ClosureCompiler_ _Grunt_ _Bower_
-
-- ##### December 2013 – March 2015
-
-  ### HOQS
-
-  #### Senior Full-Stack Developer
-
-  **HOQS** is a digital agency based in Kraków, Poland.
-
-  - Led and managed web and interactive projects for the company's clients, including **landing pages**, **cultural events' websites**, **social games integrated with Facebook**, **custom e-learning platforms**, and many others.
-  - Provided **support for websites** maintained by the company.
-  - Built **tools for monitoring** the activity and health of internal systems.
-  - Improved **developers' efficiency** through training them in new technologies and modern programming techniques.
-
-  Major clients: **Nowe Motywacje**, **Digart.pl**, **nazwa.pl**, **Onet**, **LexisNexis**, **evercare**.
-
-  > _PHP_ _Moodle_ _LESS_ _Bootstrap_ _JavaScript_ _AngularJS_ _NodeJS_
-
-- ##### May 2012 – December 2013
-
-  ### Professional design / CG2
-
-  #### Back-end Developer
-
-  CG2 is a digital agency based in Opole, Poland.
-
-  - Designed and built a **dedicated development platform** with a rich **content management system** focused on stability, optimization, and easy extending.
-  - Deployed websites for company clients.
-
-  > _PHP_ _Kohana_ _MySQL_ _HTML_ _CSS_ _LESS_ _Bootstrap_ _JavaScript_ _jQuery_
-
-- ##### 2007-2014
-
-  ### Spoko Brand
-
-  #### Full-Stack Developer
-
-  **Spoko Brand** is a company with experience in creating and managing specialized online stores with global reach.
-
-  - Created a scalable **e-commerce platform** running the company's online shops ([Hedonskate](http://hedonskate.com), Bladeville, and TwoTip).
-  - Design an **optimized store database** with shared stock inventory.
-  - Developed a full-text search system based on **Sphinx**.
-  - Implemented a stock quote **SOAP web service** and integration with external APIs, e.g. Braintree, UPS, InPost.
-  - Improved sites **SEO** under the guidance of Google experts.
-  - Coded a variety of tools for maintaining, extending, and **enhancing security**.
-
-  > _PHP_ _MySQL_ _LESS_ _jQuery_ _SOAP_
-
-- ##### 2004 – December 2017
-
-  ### Freelance
-
-  #### Full-Stack Developer
-
-  Major clients:
-
-  - Online shops (**Be-Mag**, **Snapbox**, **Fandango Records**),
-  - Music artists (**Miuosh**, **Lilu**, **Believe**, **Decybele Dizajnu**),
-  - Sportsmen (**Szczepan Karpiel-Bułecka**, **Bartek Sibiga**, **Tomasz Kwiecień**),
-  - Fashion and graphic designers (**The Hive**, **Aaaghr**, **From Froggy With Love**, **Admirable**, **CustomTop**).
-
-  > _PHP_ _Kohana_ _Wordpress_ _MySQL_ _HTML_ _CSS_ _LESS_ _Bootstrap_ _JavaScript_ _jQuery_ _PayPal_ _PayU_ _WorldPay_ _LastFm_ _PrestaShop_
-
-- ##### July 17th, 1988
+- #####  24th February, 2004
 
   ### Born
 

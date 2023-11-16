@@ -1,11 +1,11 @@
 ## Education
 
-### Master of Science (M.Sc.), Computer Software Engineering
+### Bachelor's of Technology (B.Tech.), Computer Science Engineering with spl. in Big Data Analytics
 
-#### Politechnika Białostocka, 2014
+#### SRM snstitute of science and Technology, 2022-2026
 
-> The comparison of the methods of the execution of contact-free interface applying the track of movement in the image from the camera
+> Mastered Advanced Object Oriented Programming, Data Structures and Algorithms
 
-Implemented algorithms for real-time analysis of images captured by web camera to provide touchless computer interface.
+Deep Learning related courses: CALCULUS AND LINEAR ALGEBRA, ADVANCED CALCULUS AND COMPLEX ANALYSIS, TRANSFORMS AND BOUNDRY VALUE PROBLEMS
 
-> _#Java_ _#JavaCV_
+> _Python_ _C_ _C++_  _Shell_ _MySQL_ _Java_ 

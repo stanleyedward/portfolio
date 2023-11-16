@@ -26,6 +26,7 @@
 
 ### Languages
 
-- Polish (native),
 - English (fluent),
-- Norwegian (basic).
+- Hindi (native),
+- Tamil (native),
+- Marathi (basic).
