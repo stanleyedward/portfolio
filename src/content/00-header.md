@@ -2,4 +2,4 @@
 
 # stanley edward
 
-and i'm a dl ethusiast
+and I'm into Deep Learning Research

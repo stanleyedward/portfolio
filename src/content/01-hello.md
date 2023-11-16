@@ -1,14 +1,14 @@
 ## About me
 
-Web developer with **over 19 years' experience** in creating a wide variety of web solutions, from small business websites to **complex e-commerce platforms** and **enterprise applications** used by specialists around the world. Familiar with all phases of the software development lifecycle. Finds Zen in the aesthetic code.
+Student with unsatiated hunger to advance in the field of **deep learning**, looking to specialize in **neural fields**. Familiar with all phases of the **ML product lifecycle**. Always excited to help people and listen to people with similar interests:D
 
-Geek in love with coding, sound, and visuals, preferably at the same time.
+Finds zen staring at decrementing loss counters while listening to deftones. 
 
 - [greenek.com](https://greenek.com)
-- [pgolonko@gmail.com](mailto:pgolonko@gmail.com)
+- [stanleyedward9715@gmail.com](mailto:stanleyedward9715@gmail.com)
 
 ### Follow
 
-- [github.com/Greenek](https://github.com/Greenek)
-- [dribbble.com/Greenek](https://dribbble.com/Greenek)
-- [/in/pawelgolonko](https://linkedin.com/in/pawelgolonko)
+- [github.com/stanleyedward](https://github.com/stanleyedward)
+- [medium.com/@stanleyedward](https://medium.com/@stanleyedward)
+- [/in/stanley-edward](https://linkedin.com/in/stanley-edward)
