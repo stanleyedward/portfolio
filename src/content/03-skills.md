@@ -2,27 +2,29 @@
 
 ### Proficient in
 
-- creating **single-page web applications** and interactive **user interfaces**,
-- writing optimal and **efficient TypeScript** code compatible with current ECMAScript standards,
-- writing **semantic HTML and CSS** code, compliant with W3C standards,
-- producing **clean and readable code** using **design patterns**,
-- solving **complex problems**,
-- **debugging and profiling code** with Chrome DevTools,
-- **frameworks** (Angular), **preprocessors** (Sass) and **other tools** (Git, Eslint).
+- designing and training models using **Pytorch** framework,
+- code re-organization and increased scalability using **Pytorch Lightning** for reproducibility for experiments,
+- version control using **Git**,
+- automation and webscaping with **Selenium**,
+- producing **clean and reusable code** using **abstractions and PEP-8**,
+- using **Linux** workstations as a daily driver,
+- text editor: **VS Code**.
 
 ### Knowledge of
 
-- building efficient **API services**,
-- publishing and maintaining **open source** projects,
-- prototyping **accessible and user-friendly interfaces** using WAI-ARIA standards,
-- automating tasks using **Bash scripts** and **POSIX commands**.
+- **Data pre-processing** and **model hyperparameter tuning**,
+- Contributing to **open source** projects (pytorch),
+- Experiment tracking and managing model artifacts using **Weights & Biases**,
+- automating tasks using **Bash scripts**,
+- creating model front-end using **Gradio** and **Streamlit**.
 
-### Additional skills
+### Looking to learn
 
-- very good **communication** and **interpersonal** skills,
-- **reliable** and **focused** on providing high-quality product,
-- **fast learner** and always willing to **share knowledge**,
-- can **exit vim** in at least 5 different ways ;).
+- containerization using **Docker / K8s**
+- hosting using **Cloud platforms**,
+- monitoring models,
+- **Continuous Integration/Continuous Delivery** (CI/CD),
+
 
 ### Languages
 
