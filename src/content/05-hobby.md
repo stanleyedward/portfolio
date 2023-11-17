@@ -10,4 +10,4 @@ training while my model(s) train
 
 ### /.!@#>41./?>!@#12
 
-can't stop drawing cats dinos and sharks
+can't stop drawing dinos cats and sharks
