@@ -6,12 +6,9 @@
 
   #### Associate
 
-  Leading the development of the **Design System and Data Visualization** libraries used in Aize applications.
+  McCarthy Lab - Machine Learning Research Lab
 
-  - Crafting a **unified and consistent user experience** across products by creating and refining design patterns, components, and guidelines.
-  - **Collaborating with cross-functional teams**, including designers, developers, and product managers, to ensure efficient and cohesive development processes.
-  - Contributing to **enhancing the quality and usability** of Aize products.
-  - **Mentoring and guiding** fellow engineers, cultivating a culture of collaboration.
+  - The **only student-run multi-disciplinary research lab** in SRM University. Next Tech Lab has advisors from around the world from distinguished affiliates and alumni of institutions like MIT, University of Cambridge, Google Brain etc.
 
   > _Pytorch_ _Lightning_ _Selenium_ _Shell_ _Github_
 
@@ -21,14 +18,10 @@
 
   #### Member
 
-  Built a scalable system enabling the execution of Angular pages with content served by a decoupled Drupal using the JSON:API protocol.
+  Technical - AI/ML Domain
 
-  - Designed and implemented a solution that allowed for the creation of **customized landing pages** in the Drupal CMS and dynamically rendered them in an Angular application.
-  - Developed an **e-commerce module** integrated with internal and external services such as Salesforce, Adyen, or Klarna.
-  - Optimized the application for better **performance and accessibility**.
-  - **Collaborated with business and team members** to provide the most valuable product.
-  - Worked together with UI/UX designers on the implementation of the **design system**.
-  - Improved the **branching and release workflows**.
+  - A Data Science based **student-led innovation community** at SRM IST with an aim to foster development skills among students.
+  - Curated **medium** blogs/articles for **DataX Journal** regarding deep learning topics.
 
   > _Pytorch_ _TensorFlow_ _SciKit-Learn_ _Shell_ _Github_
 
