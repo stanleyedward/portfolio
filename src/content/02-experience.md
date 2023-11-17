@@ -13,7 +13,7 @@
   - Contributing to **enhancing the quality and usability** of Aize products.
   - **Mentoring and guiding** fellow engineers, cultivating a culture of collaboration.
 
-  > _Angular_ _Typescript_ _D3_ _NX_ _Storybook_ _GitLab_ _Figma_
+  > _Pytorch_ _Lightning_ _Selenium_ _Shell_ _Github_
 
 - ##### October 2023 – present
 
@@ -30,7 +30,7 @@
   - Worked together with UI/UX designers on the implementation of the **design system**.
   - Improved the **branching and release workflows**.
 
-  > _Angular_ _Typescript_ _NX_ _NestJS_ _SSR_ _JSONAPI_
+  > _Pytorch_ _TensorFlow_ _SciKit-Learn_ _Shell_ _Github_
 
 - #####  24th February, 2004
 

@@ -1,5 +1,5 @@
 ### Hello! My name is
 
-# stanley edward
+# Stanley Edward
 
 and I'm into Deep Learning Research
