@@ -4,7 +4,7 @@ Student with unsatiated hunger to advance in the field of **deep learning**, loo
 
 Finds zen staring at decrementing loss counters while listening to deftones. 
 
-- [example.com](https://example.com)
+- [stanleyedward.me](https://stanleyedward.me)
 - [stanleyedward9715@gmail.com](mailto:stanleyedward9715@gmail.com)
 
 ### Follow
