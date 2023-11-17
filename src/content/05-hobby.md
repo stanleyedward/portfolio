@@ -1,13 +1,13 @@
 ## After Hours
 
-### music
+### Music
 
-little bit of punk a little bit metal
+little bit of punk a little bit of metal
 
-### calisthenics
+### Calisthenics
 
 training while my model(s) train
 
 ### /.!@#>41./?>!@#12
 
-can't stop drawing cars dinos and sharts
+can't stop drawing cats dinos and sharks
