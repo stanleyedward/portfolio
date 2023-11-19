@@ -2,7 +2,7 @@
 
 ### Bachelor's of Technology (B.Tech.), Computer Science Engineering with spl. in Big Data Analytics
 
-#### SRM snstitute of science and Technology, 2022-2026
+#### SRM institute of science and Technology, 2022-2026
 
 > Mastered Advanced Object Oriented Programming, Data Structures and Algorithms
 
