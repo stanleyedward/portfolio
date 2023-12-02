@@ -17,14 +17,14 @@
 - Experiment tracking and managing model artifacts using **Weights & Biases**,
 - automating tasks using **Bash scripts**,
 - creating model front-end using **Gradio** and **Streamlit**.
-
+<!--
 ### Looking to learn
 
 - containerization using **Docker / K8s**
 - hosting using **Cloud platforms**,
 - monitoring models,
 - **Continuous Integration/Continuous Delivery** (CI/CD),
-
+-->
 
 ### Languages
 
