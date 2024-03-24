@@ -1,8 +1,8 @@
 ## About me
 
-Student with unsatiated hunger to advance in the field of **deep learning**, looking to specialize in **computer vision** and **neural fields**. Trying to get familiar with all phases of the **ML product lifecycle**. Always excited to help people and listen to people with similar interests:D
+Student with unsatiated hunger to advance in the field of **deep learning**, looking to specialize in **computer vision and graphics**. Trying to get familiar with **3D reconstuction and view synthesis**. Always excited to help people and listen to people with similar interests.
 
-Finds zen staring at decrementing loss counters while listening to deftones. 
+Finds zen staring at decrementing loss counters while listening to korn. 
 
 - [stanleyedward.me](https://stanleyedward.me)
 - [stanleyedward9715@gmail.com](mailto:stanleyedward9715@gmail.com)

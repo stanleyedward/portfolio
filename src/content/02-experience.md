@@ -4,11 +4,11 @@
 
   ### Next Tech Lab
 
-  #### Associate
+  #### Member
 
   McCarthy Lab - Machine Learning Research Lab
 
-  - The **only student-run multi-disciplinary research lab** in SRM University. Next Tech Lab has advisors from around the world from distinguished affiliates and alumni of institutions like MIT, University of Cambridge, Google Brain etc.
+  - SRMIST's esteemed and internationally recognized **student-run multi-disciplinary research lab**, honored with the **prestigious QS Award.**   
 
   > _Pytorch_ _Lightning_ _Selenium_ _Shell_ _Github_
 

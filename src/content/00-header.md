@@ -2,4 +2,4 @@
 
 # Stanley Edward
 
-and I'm into Deep Learning Research
+and im just a second year!
