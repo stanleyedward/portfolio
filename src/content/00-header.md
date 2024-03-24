@@ -2,4 +2,4 @@
 
 # Stanley Edward
 
-and im just a second year!
+and im just a boy

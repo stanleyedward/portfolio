@@ -23,4 +23,4 @@
 - English (fluent),
 - Hindi (native),
 - Tamil (native),
-- Marathi (basic).
+- Marathi (terrible).
